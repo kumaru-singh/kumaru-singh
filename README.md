@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rahul%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=राहुल%20कुमार%20सिंह&descSize=20&descAlignY=75" />
 </p>
 
-<h2 align="center">Full-Stack Developer • フルスタック開発者 • पूर्ण-स्टैक डेवलपर</h2>
+<h2 align="center">Full-Stack Developer • フルスタック開発者</h2>
 
 <p align="center">
   <a href="https://github.com/kumaru-singh">
